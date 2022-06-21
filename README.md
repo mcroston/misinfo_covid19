@@ -1,1 +1,1 @@
-# misinformation_covid19
+# misinfo_covid19
